@@ -1,7 +1,7 @@
 {
-  "name": "mews/purifier",
+  "name": "adamfousek/purifier",
   "type": "package",
-  "description": "Laravel 5/6/7/8/9 HtmlPurifier Package",
+  "description": "Laravel 5/6/7/8/9/10 HtmlPurifier Package",
   "keywords": ["Laravel HtmlPurifier", "Laravel Purifier", "Laravel Security", "HtmlPurifier", "Purifier", "security", "xss"],
   "homepage": "https://github.com/mewebstudio/purifier",
   "license": "MIT",
